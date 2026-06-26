@@ -4,6 +4,7 @@ A curated list of AI assistants, agentic tools, personal AI agents, and self-hos
 
 
 - [OpenClaw](https://github.com/openclaw/openclaw)
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [nanobot](https://github.com/HKUDS/nanobot)
 - [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
 - [PicoClaw](https://github.com/sipeed/picoclaw)
