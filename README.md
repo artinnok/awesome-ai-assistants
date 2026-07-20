@@ -15,6 +15,7 @@ A curated list of AI assistants, agentic tools, personal AI agents, and self-hos
 - [IronClaw](https://github.com/nearai/ironclaw)
 - [NullClaw](https://github.com/nullclaw/nullclaw)
 - [MimiClaw](https://github.com/memovai/mimiclaw)
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep)
 
 
 ## Comparison
@@ -33,3 +34,4 @@ A curated list of AI assistants, agentic tools, personal AI agents, and self-hos
 | [IronClaw](https://github.com/nearai/ironclaw) | Privacy-focused Rust assistant with persistent hybrid-search memory and cron-based background automation | Rust | 11,074 | 1,254 | ✅ | ✅ | ✅ | ✅ | ❌ | Apache-2.0 |
 | [NullClaw](https://github.com/nullclaw/nullclaw) | Smallest fully autonomous AI assistant — 678KB binary, <2ms startup, ~1MB RAM, 50+ providers, 19 channels | Zig | 6,911 | 818 | ✅ | ✅ | ✅ | ❌ | ✅ | MIT |
 | [MimiClaw](https://github.com/memovai/mimiclaw) | First AI assistant running on a $5 ESP32-S3 chip — no Linux, no Node.js, just pure C with 0.5W power | C | 4,912 | 695 | ✅ | ✅ | ✅ | ❌ | ❌ | MIT |
+| [Hivekeep](https://github.com/MarlBurroW/hivekeep) | Self-hosted platform to run a team of specialized AI agents that collaborate and build their own tools, mini-apps, and plugins; web UI plus Telegram/Slack/Discord/Matrix | TypeScript | 33 | 5 | ✅ | ✅ | ✅ | ✅ | ❌ | MIT |
